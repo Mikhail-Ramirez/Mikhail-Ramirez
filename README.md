@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Mikhail (@Mikhail-Ramirez)
+- 👀 I’m interested in everything
+- 🌱 I’m currently learning about things i don't know
