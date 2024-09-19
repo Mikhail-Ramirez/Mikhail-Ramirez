@@ -9,7 +9,7 @@ namespace MikhailRamirez {
 
         std::string otherProfiles() {
             return "Leetcode: https://leetcode.com/u/Mikhail_Ramirez/,
-                    LinkedIn: www.linkedin.com/in/mikhail-ramirez-a569791aa;
+                    LinkedIn: www.linkedin.com/in/mikhail-ramirez;
         }
 
         std::vector<std::string> getDailyKnowledge() {
