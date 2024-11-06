@@ -81,7 +81,7 @@
 <a href="https://gitlab.com/https://gitlab.ece.uah.edu/mmr0012" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23390818/mikhail-ramirez" target="_blank">
+<a href="https://stackoverflow.com/users/23390818/mikhail-ramirez" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
 </div>  
