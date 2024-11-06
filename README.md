@@ -91,7 +91,13 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mikhail-ramirez&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&hide=contribs,issues" align="center" />
+<div align="center">
+  <img src="https://your-vercel-app.vercel.app/api?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" align="center" />
+</div>  
+<div align="center">
+  <img src="https://your-vercel-app.vercel.app/api/top-langs/?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" align="center" />
+</div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" align="center" />
 </div>  
 
 <br/>  
