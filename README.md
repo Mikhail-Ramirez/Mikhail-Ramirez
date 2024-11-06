@@ -92,13 +92,17 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" align="center" />
-</div>  
+  <img src="https://github.com/mikhail-ramirez/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="center" />
+</div> 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikhail-ramirez&theme=highcontrast&hide_border=true" align="center" />
-</div>  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" align="center" />
-</div>  
+  <img src="https://github.com/mikhail-ramirez/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only" align="center" />
+</div> 
+
+
+[//]: <> (These work but they dont include private repos so they dont look as good tbh)
+[//]: <> (<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" align="center" /></div>)
+[//]: <> (<<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikhail-ramirez&theme=highcontrast&hide_border=true" align="center" /></div>)
+[//]: <> (<<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" align="center" /></div>)
 
 <br/>  
 
