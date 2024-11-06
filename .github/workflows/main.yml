@@ -1,0 +1,20 @@
+name: GitHub Stats
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Display GitHub Stats with Private Repos
+        env:
+          GH_STATS_PAT: ${{ secrets.GH_STATS_PAT }}
+        run: |
+          curl -H "Authorization: token $GH_STATS_PAT" \
+          https://github-readme-stats.vercel.app/api?username=mikhail-ramirez&show_icons=true&count_private=true&hide_border=true
