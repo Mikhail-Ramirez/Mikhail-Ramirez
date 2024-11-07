@@ -3,7 +3,8 @@
 </div>  
   
 
-### <div align="center">I'm Mikhail, a Software Engineer and a student of everything 👨‍💻 graduated since May 2025 and coding my whole life 🚀</div>  
+### <div align="center">I'm Mikhail, a Software Engineer and a student of everything 👨‍💻   
+### <div align="center">Graduated since May 2025 and coding my whole life 🚀</div>  
   
 
 - 🔭 I’m currently working at [Outpost Technologies](https://outposttechnologies.com/)  
