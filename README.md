@@ -76,16 +76,15 @@
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/mikhail-ramirez" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/mikhail-ramirez" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+<img src=https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
 <a href="https://gitlab.ece.uah.edu/mmr0012" target="_blank">
-<img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/23390818/mikhail-ramirez" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white style="margin-bottom: 5px;" />
+</a>  
+<a href="https://leetcode.com/u/Mikhail_Ramirez/" target="_blank">
+<img src=https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06 style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
