@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at [Outpost Technologies](https://outposttechnologies.com/)  
   
 
-- 📚 I’m currently learning at 
+- 📚 I’m learning at 
 [UAH](https://www.uah.edu/)  
   
 
