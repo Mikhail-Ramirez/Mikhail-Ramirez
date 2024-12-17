@@ -16,7 +16,7 @@
 - 🌱 I’m working on my senior design project for counter UAVs systems  
   
 
-- ❓ Ask me about anything related to computer hardware  
+- ❓ Ask me why arch is my current daily driver
   
 
 - ⚡ Fun fact: Vim is the best text editor  
