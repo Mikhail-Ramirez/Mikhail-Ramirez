@@ -1,6 +1,6 @@
-//<div align="center">
-//<img src="https://wallpapers.com/images/high/smile-on-black-moon-astronaut-4pxb7ft25xu6wlo8.webp" align="center" style="width: 100%" />
-//</div>  
+<!-- <div align="center">
+<img src="https://wallpapers.com/images/high/smile-on-black-moon-astronaut-4pxb7ft25xu6wlo8.webp" align="center" style="width: 100%" />
+</div>   -->
 
 ### <div align="center">I'm Mikhail, a Software Engineer and a student of everything 👨‍💻   
 ### <div align="center">Graduated since May 2025 and coding my whole life 🚀</div>  
