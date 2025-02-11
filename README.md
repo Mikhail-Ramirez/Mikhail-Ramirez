@@ -19,7 +19,11 @@
 - ❓ Ask me why arch is my current daily driver
   
 
-- ⚡ Fun fact: Vim is the best text editor  
+- ⚡ Fun fact: Vim is the best text editor
+
+
+- 🌐 Checkout my website for my blog and some project descriptions! [Mikhail's Website](https://mikhail-ramirez.com)  
+  
   
 
 <br/>  
