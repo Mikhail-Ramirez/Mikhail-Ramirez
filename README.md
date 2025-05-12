@@ -6,26 +6,19 @@
 ### <div align="center">Graduated since May 2025 and coding my whole life 🚀</div>  
   
 
-- 🔭 I’m currently working at [Outpost Technologies](https://outposttechnologies.com/)  
-  
+- 🔭 I’m currently a Software Engineer at [Outpost Technologies](https://outposttechnologies.com/)  
 
-- 📚 I’m learning at 
-[UAH](https://www.uah.edu/)  
-  
+- 📚 I’m graduated from 
+[UAH](https://www.uah.edu/) May 2025 with a BS in Computer Engineering
 
-- 🌱 I’m working on my senior design project for counter UAVs systems  
+- ❓ Ask me why Arch is my current daily driver (I use Arch btw)
   
-
-- ❓ Ask me why arch is my current daily driver
-  
-
 - ⚡ Fun fact: Vim is the best text editor
 
-
-- 🌐 Checkout my website for my blog and some project descriptions! [Mikhail's Website](https://mikhail-ramirez.com)  
+- 🌐 Checkout my website for my blogs and some projects! [Mikhail's Website](https://mikhail-ramirez.com)  
   
+- 🌱 I’m obsessed with chess and AI 
   
-
 <br/>  
 
 
