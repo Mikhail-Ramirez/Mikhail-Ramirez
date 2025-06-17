@@ -2,8 +2,8 @@
 <img src="https://wallpapers.com/images/high/smile-on-black-moon-astronaut-4pxb7ft25xu6wlo8.webp" align="center" style="width: 100%" />
 </div>   -->
 
-### <div align="center">I'm Mikhail, a Software Engineer and a student of everything 👨‍💻   
-### <div align="center">Graduated since May 2025 and coding my whole life 🚀</div>  
+### <div align="center">I'm Mikhail, a Software Engineer and a student of everything 👨‍💻 
+</div>  
   
 
 - 🔭 I’m currently a Software Engineer at [Outpost Technologies](https://outposttechnologies.com/)  
@@ -19,7 +19,7 @@
   
 - 🌱 I’m obsessed with chess and AI 
 
-## Github Stats  
+## <div align="center"> Github Stats  
 <p align="center">
   <a href="https://github.com/mikhail-ramirez">
     <img
@@ -51,12 +51,12 @@
 
 <br/>  
 
-## My Skill Set  
+## <div align="center"> My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+### <div align="center"> Frontend  
 <div align="center">  
 <!--<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 <a href="https://www.blender.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" /></a>  -->
@@ -71,7 +71,7 @@
 
 
 
-### Backend  
+### <div align="center"> Backend  
 <div align="center">  
 <!--<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  -->
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -89,7 +89,7 @@
 
 
 
-### DevOps  
+### <div align="center"> DevOps  
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -103,7 +103,7 @@
 <br/>  
 
 
-## Connect with me  
+## <div align="center"> Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/mikhail-ramirez" target="_blank">
 <img src=https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white style="margin-bottom: 5px;" />
@@ -121,15 +121,7 @@
 
 <br/>  
 
-
-
-
-  
-
-<br/>  
-
-
-## Spotify Listening  
+## <div align="center"> Spotify Listening  
 <br/>  
 
 <p align="Center">
