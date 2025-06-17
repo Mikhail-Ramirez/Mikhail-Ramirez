@@ -103,6 +103,12 @@
   </a>
 </p>
 
+<p align="center">
+  <img
+    src="https://github-readme-stats-9ugj-mikhails-projects-2f1624a2.vercel.app/api/top-langs/?username=mikhail-ramirez&layout=compact&langs_count=8&hide_border=true&bg_color=1e1e1e&text_color=f5f5f5&title_color=2ea461&border_radius=8"
+    alt="Most Used Languages"
+  />
+</p>
 <!--
 <div align="center">
   <img src="https://github.com/mikhail-ramirez/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="center" />
