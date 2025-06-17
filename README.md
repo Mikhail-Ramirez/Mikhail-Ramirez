@@ -6,14 +6,12 @@
 </div>  
   
 
-- 🔭 I’m currently a Software Engineer at [Outpost Technologies](https://outposttechnologies.com/)  
+- 🔭 I’m currently work at [Outpost Technologies](https://outposttechnologies.com/)  
 
 - 📚 I’m graduated from 
-[UAH](https://www.uah.edu/) May 2025 with a BS in Computer Engineering
+[UAH](https://www.uah.edu/) with a BS in Computer Engineering
 
-- ❓ Ask me why Arch is my current daily driver (I use Arch btw)
-  
-- ⚡ Fun fact: Vim is the best text editor
+- ⚡ Fun fact: Vim is the best text editor (And developing environment)
 
 - 🌐 Checkout my website for my blogs and some projects! [Mikhail's Website](https://mikhail-ramirez.com)  
   
