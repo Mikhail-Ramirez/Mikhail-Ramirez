@@ -18,9 +18,38 @@
 - 🌐 Checkout my website for my blogs and some projects! [Mikhail's Website](https://mikhail-ramirez.com)  
   
 - 🌱 I’m obsessed with chess and AI 
-  
-<br/>  
 
+## Github Stats  
+<p align="center">
+  <a href="https://github.com/mikhail-ramirez">
+    <img
+      src="https://github-readme-stats-9ugj-mikhails-projects-2f1624a2.vercel.app/api?username=mikhail-ramirez&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e1e&text_color=f5f5f5&title_color=2ea461&icon_color=2ea461&border_radius=8"
+      alt="Mikhail’s GitHub stats"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-9ugj-mikhails-projects-2f1624a2.vercel.app/api/top-langs/?username=mikhail-ramirez&layout=compact&langs_count=8&hide_border=true&bg_color=1e1e1e&text_color=f5f5f5&title_color=2ea461&border_radius=8"
+    alt="Most Used Languages"
+  />
+</p>
+<!--
+<div align="center">
+  <img src="https://github.com/mikhail-ramirez/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="center" />
+</div> 
+<div align="center">
+  <img src="https://github.com/mikhail-ramirez/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only" align="center" />
+</div> 
+-->
+
+[//]: <> (These work but they dont include private repos so they dont look as good tbh)
+[//]: <> (<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" align="center" /></div>)
+[//]: <> (<<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikhail-ramirez&theme=highcontrast&hide_border=true" align="center" /></div>)
+[//]: <> (<<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" align="center" /></div>)
+
+<br/>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -93,37 +122,7 @@
 <br/>  
 
 
-## Github Stats  
-<p align="center">
-  <a href="https://github.com/mikhail-ramirez">
-    <img
-      src="https://github-readme-stats-9ugj-mikhails-projects-2f1624a2.vercel.app/api?username=mikhail-ramirez&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e1e&text_color=f5f5f5&title_color=2ea461&icon_color=2ea461&border_radius=8"
-      alt="Mikhail’s GitHub stats"
-    />
-  </a>
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats-9ugj-mikhails-projects-2f1624a2.vercel.app/api/top-langs/?username=mikhail-ramirez&layout=compact&langs_count=8&hide_border=true&bg_color=1e1e1e&text_color=f5f5f5&title_color=2ea461&border_radius=8"
-    alt="Most Used Languages"
-  />
-</p>
-<!--
-<div align="center">
-  <img src="https://github.com/mikhail-ramirez/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="center" />
-</div> 
-<div align="center">
-  <img src="https://github.com/mikhail-ramirez/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only" align="center" />
-</div> 
--->
-
-[//]: <> (These work but they dont include private repos so they dont look as good tbh)
-[//]: <> (<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" align="center" /></div>)
-[//]: <> (<<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mikhail-ramirez&theme=highcontrast&hide_border=true" align="center" /></div>)
-[//]: <> (<<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&layout=compact" align="center" /></div>)
-
-<br/>  
 
   
 
@@ -148,7 +147,8 @@
                 />
 </a></div>
 -->
+<!--
 <br />
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+-->
