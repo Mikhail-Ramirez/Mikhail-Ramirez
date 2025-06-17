@@ -94,13 +94,23 @@
 
 
 ## Github Stats  
+<p align="center">
+  <a href="https://github.com/mikhail-ramirez">
+    <img
+      src="https://github-readme-stats-9ugj-mikhails-projects-2f1624a2.vercel.app/api?username=mikhail-ramirez&show_icons=true&count_private=true&hide_border=true&bg_color=1e1e1e&text_color=f5f5f5&title_color=2ea461&icon_color=2ea461&border_radius=8"
+      alt="Mikhail’s GitHub stats"
+    />
+  </a>
+</p>
+
+<!--
 <div align="center">
   <img src="https://github.com/mikhail-ramirez/github_stats/blob/master/generated/overview.svg#gh-dark-mode-only" align="center" />
 </div> 
 <div align="center">
   <img src="https://github.com/mikhail-ramirez/github_stats/blob/master/generated/languages.svg#gh-dark-mode-only" align="center" />
 </div> 
-
+-->
 
 [//]: <> (These work but they dont include private repos so they dont look as good tbh)
 [//]: <> (<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mikhail-ramirez&theme=highcontrast&show_icons=true&hide_border=true&count_private=true" align="center" /></div>)
